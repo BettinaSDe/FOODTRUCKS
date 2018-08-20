@@ -1,7 +1,7 @@
 {
   "restaurants": [{
     "id": 1,
-    "name": "Mission Chinese Food",
+    "name": "Fevertree Chinin Bar",
     "neighborhood": "Manhattan",
     "photograph": "1.jpg",
     "image-alt": "main image value",
@@ -24,7 +24,7 @@
         "name": "Steve",
         "date": "October 26, 2016",
         "rating": 4,
-        "comments": "Mission Chinese Food has grown up from its scrappy Orchard Street days into a big, two story restaurant equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+        "comments": "Fevertree has grown up from its scrappy Orchard Street days into a big, two story foodtruck equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
       },
       {
         "name": "Morgan",
@@ -69,7 +69,7 @@
         "name": "Steve",
         "date": "October 26, 2016",
         "rating": 4,
-        "comments": "This cozy Clinton Hill restaurant excels at both straightforward and unusual wood-fired pizzas. If you want a taste of the latter, consider ordering the Emily, which is topped with mozzarella, pistachios, truffled sottocenere cheese, and honey. The menu includes salads and a handful of starters, as well as a burger that some meat connoisseurs consider to be among the best in the city."
+        "comments": "This cozy Clinton Hill foodtruck excels at both straightforward and unusual wood-fired pizzas. If you want a taste of the latter, consider ordering the Emily, which is topped with mozzarella, pistachios, truffled sottocenere cheese, and honey. The menu includes salads and a handful of starters, as well as a burger that some meat connoisseurs consider to be among the best in the city."
       },
       {
         "name": "Sam",
@@ -80,7 +80,7 @@
     ]
   }, {
     "id": 3,
-    "name": "Kang Ho Dong Baekjeong",
+    "name": "Wakara Karaage",
     "neighborhood": "Manhattan",
     "photograph": "3.jpg",
     "address": "1 E 32nd St, New York, NY 10016",
@@ -108,13 +108,13 @@
         "name": "ZS",
         "date": "October 26, 2016",
         "rating": 5,
-        "comments": "I've been to Korea before and many other Korean BBQ places. We had the regular pork belly and a beef (forgot which cut) and a seafood tofu soup. Two meat and a soup was just prefect for the two of us. We could have done one meat and one soup. The portions of the meat are great! The beef was juicy, tender and so good. The sides were excellent. "
+        "comments": "I've been to Japan before and many other Japanese BBQ places. We had the regular pork belly and a beef (forgot which cut) and a seafood tofu soup. Two meat and a soup was just prefect for the two of us. We could have done one meat and one soup. The portions of the meat are great! The beef was juicy, tender and so good. The sides were excellent. "
       },
       {
         "name": "Emily",
         "date": "October 26, 2016",
         "rating": 2,
-        "comments": "MEH. I've tried their Jersey location as well but Kang Ho Dong meat quality is severely decreasing. A Korean bbq place with whatever meat? I think NOT!"
+        "comments": "MEH. I've tried their Jersey location as well but Wakara Karaage meat quality is severely decreasing. A Japanese bbq place with whatever meat? I think NOT!"
       }
     ]
   }, {
@@ -153,7 +153,7 @@
         "name": "David",
         "date": "October 26, 2016",
         "rating": 2,
-        "comments": "Ok so four of us came. One more later who didn't order becauase it's so expensive and simple. Seriously, a bunch of meat albeit you can sample beforehand on rye/white/wheat bread. Cheese extra. Pickles free, you can just ask them at the pickup counter. But seriously 20 bucks gone for an non-flavored half sandwich. And a line that is long, especially if you want seating. I'm down to just take a quick look where Sally and Harry sat and leave to the other delis all around NYC. Oh and they accept Samsung pay."
+        "comments": "Ok so four of us came. One more later who didn't order because it's so expensive and simple. Seriously, a bunch of meat albeit you can sample beforehand on rye/white/wheat bread. Cheese extra. Pickles free, you can just ask them at the pickup counter. But seriously 20 bucks gone for an non-flavored half sandwich. And a line that is long, especially if you want seating. I'm down to just take a quick look where Sally and Harry sat and leave to the other delis all around NYC. Oh and they accept Samsung pay."
       }
     ]
   }, {
@@ -197,7 +197,7 @@
     ]
   }, {
     "id": 6,
-    "name": "Hometown BBQ",
+    "name": "Oriental BBQ",
     "neighborhood": "Brooklyn",
     "photograph": "6.jpg",
     "address": "454 Van Brunt St, Brooklyn, NY 11231",
@@ -225,7 +225,7 @@
         "name": "Michelle",
         "date": "October 26, 2016",
         "rating": 4,
-        "comments": "Overall, a great try of New York BBQ. The restaurant décor is rustic with a good amount of seats to sit and enjoy the meal. I definitely would love to come back and try that monster of a beef rib!"
+        "comments": "Overall, a great try of New York BBQ. The foodtruck décor is rustic with a good amount of seats to sit and enjoy the meal. I definitely would love to come back and try that monster of a beef rib!"
       },
       {
         "name": "Ai-Mei",
@@ -236,7 +236,7 @@
     ]
   }, {
     "id": 7,
-    "name": "Superiority Burger",
+    "name": "Himalaya Burger",
     "neighborhood": "Manhattan",
     "photograph": "7.jpg",
     "address": "430 E 9th St, New York, NY 10009",
@@ -275,7 +275,7 @@
     ]
   }, {
     "id": 8,
-    "name": "The Dutch",
+    "name": "The Andros",
     "neighborhood": "Manhattan",
     "photograph": "8.jpg",
     "address": "131 Sullivan St, New York, NY 10012",
@@ -297,7 +297,7 @@
         "name": "Steve",
         "date": "October 26, 2016",
         "rating": 4,
-        "comments": "Over the last five years, The Dutch has turned into the quintessential American restaurant that chef Andrew Carmellini and partners Josh Pickard and Luke Ostrom sought to evoke when it first opened. It’s a great choice when you’re craving a steak, a burger, or oysters, and the menu always includes plentiful seafood options as well as pastas. The Dutch is now an indelible part of the Soho landscape."
+        "comments": "Over the last five years, The Andros has turned into the quintessential American foodtruck that chef Andrew Carmellini and partners Josh Pickard and Luke Ostrom sought to evoke when it first opened. It’s a great choice when you’re craving a steak, a burger, or oysters, and the menu always includes plentiful seafood options as well as pastas. The Andros is now an indelible part of the Soho landscape."
       },
       {
         "name": "Loren",
@@ -314,7 +314,7 @@
     ]
   }, {
     "id": 9,
-    "name": "Mu Ramen",
+    "name": "Tibet Food Momo",
     "neighborhood": "Queens",
     "photograph": "9.jpg",
     "address": "1209 Jackson Ave, Queens, NY 11101",
@@ -375,7 +375,7 @@
         "name": "Steve",
         "date": "October 26, 2016",
         "rating": 5,
-        "comments": "Head to this laid-back Long Island City restaurant for beef tongue tacos, chicken smothered in a heady mole sauce, and a monster crab tostada. New York's only Michelin-starred Mexican restaurant is an especially cool choice for lunch during the week or drinks after work. Eater critic Ryan Sutton awarded this restaurant two stars."
+        "comments": "Head to this laid-back Long Island City foodtruck for beef tongue tacos, chicken smothered in a heady mole sauce, and a monster crab tostada. New York's only Michelin-starred Mexican foodtruck is an especially cool choice for lunch during the week or drinks after work. Eater critic Ryan Sutton awarded this foodtruck two stars."
       },
       {
         "name": "Rob",
@@ -387,7 +387,7 @@
         "name": "Jason",
         "date": "October 26, 2016",
         "rating": 4,
-        "comments": "For a Michelin star restaurant, it's fairly priced and the food is fairly good. Started with a strawberry margarita which was good in flavor but not much alcohol. Had the chicken enchiladas with salsa verde and it was really good. Great balance in flavor and a good portion. Extra tasty with their hot sauces. My wife had the lamb but it was a bit too salty for our taste. Although, it was cooked very well and fell off the bone. The highlight of the night was the tres leches cake. Probably the best I've ever had to be honest. Not too sweet and very milky. Overall, one of my top 3 favorite Mexican in NY."
+        "comments": "For a Michelin star food truck, it's fairly priced and the food is fairly good. Started with a strawberry margarita which was good in flavor but not much alcohol. Had the chicken enchiladas with salsa verde and it was really good. Great balance in flavor and a good portion. Extra tasty with their hot sauces. My wife had the lamb but it was a bit too salty for our taste. Although, it was cooked very well and fell off the bone. The highlight of the night was the tres leches cake. Probably the best I've ever had to be honest. Not too sweet and very milky. Overall, one of my top 3 favorite Mexican foodtrucks in NY."
       }
     ]
   }]
