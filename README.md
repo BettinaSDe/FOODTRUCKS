@@ -9,6 +9,7 @@ Specs: This **Foodtruck Reviews** project is #MadeWithUdacity - a training how t
 
 1. The local server I was running is: `http://localhost:5050` with python.
 The project webpage is: https://bettinasde.github.io/Foodtrucks/
+The photos are all taken by me and I tried my very best not to photograph any person specifically, since this is not my intention.
 This project is published under a MIT licence. 
 
 
