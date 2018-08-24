@@ -1,7 +1,7 @@
 {
   "restaurants": [{
     "id": 1,
-    "name": "Fevertree Chinin Bar",
+    "name": "Chinin Bar",
     "neighborhood": "Manhattan",
     "photograph": "1.jpg",
     "image-alt": "main image value",
@@ -24,7 +24,7 @@
         "name": "Steve",
         "date": "October 26, 2016",
         "rating": 4,
-        "comments": "Fevertree has grown up from its scrappy Orchard Street days into a big, two story foodtruck equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
+        "comments": "Chinin bar has grown up from its scrappy Orchard Street days into a big, two story foodtruck equipped with a pizza oven, a prime rib cart, and a much broader menu. Yes, it still has all the hits — the kung pao pastrami, the thrice cooked bacon —but chef/proprietor Danny Bowien and executive chef Angela Dimayuga have also added a raw bar, two generous family-style set menus, and showstoppers like duck baked in clay. And you can still get a lot of food without breaking the bank."
       },
       {
         "name": "Morgan",
@@ -80,7 +80,7 @@
     ]
   }, {
     "id": 3,
-    "name": "Wakara Karaage",
+    "name": "Wakara",
     "neighborhood": "Manhattan",
     "photograph": "3.jpg",
     "address": "1 E 32nd St, New York, NY 10016",
@@ -114,7 +114,7 @@
         "name": "Emily",
         "date": "October 26, 2016",
         "rating": 2,
-        "comments": "MEH. I've tried their Jersey location as well but Wakara Karaage meat quality is severely decreasing. A Japanese bbq place with whatever meat? I think NOT!"
+        "comments": "MEH. I've tried their Jersey location as well but Wakara meat quality is severely decreasing. A Japanese bbq place with whatever meat? I think NOT!"
       }
     ]
   }, {
@@ -314,7 +314,7 @@
     ]
   }, {
     "id": 9,
-    "name": "Tibet Food Momo",
+    "name": "Tibet Food",
     "neighborhood": "Queens",
     "photograph": "9.jpg",
     "address": "1209 Jackson Ave, Queens, NY 11101",
@@ -336,7 +336,7 @@
         "name": "Steve",
         "date": "October 26, 2016",
         "rating": 4,
-        "comments": "Joshua Smookler’s two-year-old ramen shop serves one of the best tonkotsu broths around. Beyond ramen, Momo also offers some high minded plates, like foie gras-stuffed chicken wings, as well as dry-aged Japanese Wagyu beef specials. Mu is just 10 short minutes away from Midtown via the 7-train."
+        "comments": "Joshua Smookler’s two-year-old ramen shop serves one of the best tonkotsu broths around. Beyond ramen, this foodtruck also offers some high minded plates, like foie gras-stuffed chicken wings, as well as dry-aged Japanese Wagyu beef specials. Mu is just 10 short minutes away from Midtown via the 7-train."
       },
       {
         "name": "Brittany",
