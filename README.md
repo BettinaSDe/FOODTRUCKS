@@ -12,5 +12,8 @@ The project webpage is: https://bettinasde.github.io/Foodtrucks/
 The photos are all taken by me and I tried my very best not to photograph any person specifically, since this is not my intention. The result of the Udacity starter code with "restaurant reviews" in combination with my Foodtruck photos make the resulting website a product of phantasy, i.e. these foodtrucks do not exist at the indicated places in New York with the reviews provided by Udacity. This is a student project to improve coding skills. 
 This project is published under a MIT licence. 
 
+28.08.2018 
+The Google API Key in this repository will be deleted by me soon.
+
 
 
